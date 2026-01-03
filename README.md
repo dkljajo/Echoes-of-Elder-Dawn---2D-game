@@ -46,7 +46,7 @@ Explore ancient lands, experience tactical combat, and engage in quests shaped b
 </p>
 
 
-> Replace with your real GIF later by renaming it `gameplay_preview.gif` and updating the src.
+
 
 ---
 
@@ -93,28 +93,6 @@ Assets/
 └── Scenes/
 ```
 
----
-
-## 🎥 Official Trailer
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_TRAILER_LINK" target="_blank">
-    <img src="images/Echoes of Elder Dawn.png" alt="Watch Trailer" width="600"/>
-  </a>
-</p>
-
-
-> Click the image above to watch the official trailer.
-
----
-
-## 🎮 Play the Demo on itch.io
-
-<p align="center">
-  <a href="https://YOUR_ITCH_IO_LINK" target="_blank">
-    <img src="images/arhitectura.png" alt="Play on itch.io" width="250"/>
-  </a>
-</p>
 
 
 - ☁️ Cloud-based AI quests  
