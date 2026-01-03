@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Echoes-of-Elder-Dawn---2D-game
 =======
 # Echoes of Elder Dawn
@@ -174,4 +174,4 @@ Assets/Scripts/
 *Showcasing the future of AI-driven game development*
 
 Ready to explore the Echoes of Elder Dawn? 🌅⚔️
->>>>>>> 257e37a0 (Initial commit)
+
