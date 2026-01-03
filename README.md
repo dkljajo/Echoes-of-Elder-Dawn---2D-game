@@ -5,12 +5,7 @@
   <img src="A_comprehensive_promotional_digital_presentation_f.png" alt="Echoes of Elder Dawn Banner" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Engine-Unity-5C2D91?logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-44CC44"/>
-  <img src="https://img.shields.io/badge/Platform-Windows|Mac|Linux-555555"/>
-</p>
+
 
 ---
 
